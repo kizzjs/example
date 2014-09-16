@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "co-fs": "^1.2.0"
+  }
+}
