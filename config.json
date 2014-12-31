@@ -1,1 +1,10 @@
-{}
+{
+    "site": {
+        "name": "Kizz Example",
+        "description": "Example site for test kizz theme"
+    },
+    "github": {
+        "username": "kizzjs",
+        "repo": "kizz-example"
+    }
+}
