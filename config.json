@@ -1,7 +1,9 @@
 {
     "site": {
         "name": "Kizz Example",
-        "description": "Example site for test kizz theme"
+        "description": "Example site for test kizz theme",
+        "link": "http://kizzjs.com/kizz-example",
+        "copyright": "Copyright (C) Kizz Team 2014."
     },
     "github": {
         "username": "kizzjs",

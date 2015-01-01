@@ -2,6 +2,26 @@
     {
         "commits": [
             {
+                "subject": "add yaml-front-matter-test",
+                "author": {
+                    "name": "Zeno Zeng",
+                    "email": "zenoofzeng@gmail.com"
+                },
+                "date": "2014-12-31 22:09:01 +0800"
+            }
+        ],
+        "contents": null,
+        "path": "yaml-front-matter-test.md",
+        "title": "Hello YAML!",
+        "tags": [
+            "t1",
+            "t2",
+            "t3"
+        ]
+    },
+    {
+        "commits": [
+            {
                 "subject": "rename source -> contents",
                 "author": {
                     "name": "Zeno Zeng",
@@ -18,6 +38,7 @@
                 "date": "2014-09-16 12:11:37 +0800"
             }
         ],
+        "contents": null,
         "path": "A/B/C/Hello C.md",
         "title": "Hello C!"
     },
@@ -40,6 +61,7 @@
                 "date": "2014-09-16 12:11:37 +0800"
             }
         ],
+        "contents": null,
         "path": "A/B/D/index.md",
         "title": "D"
     },
@@ -62,17 +84,8 @@
                 "date": "2014-09-16 12:11:37 +0800"
             }
         ],
+        "contents": null,
         "path": "HelloWorld.md",
         "title": "Uncatgorized Post Test"
-    },
-    {
-        "commits": [],
-        "path": "yaml-front-matter-test.md",
-        "title": "Hello YAML!",
-        "tags": [
-            "t1",
-            "t2",
-            "t3"
-        ]
     }
 ]
