@@ -2,12 +2,14 @@
     {
         "commits": [
             {
-                "subject": "add yaml-front-matter-test",
+                "date": "2014-12-31 22:09:01 +0800\n",
                 "author": {
-                    "name": "Zeno Zeng",
-                    "email": "zenoofzeng@gmail.com"
+                    "email": "zenoofzeng@gmail.com",
+                    "name": "Zeno Zeng"
                 },
-                "date": "2014-12-31 22:09:01 +0800"
+                "subject": "add yaml-front-matter-test",
+                "hash": "4a19a7ed163410ab46832579847793aabeebf1a4",
+                "body": ""
             }
         ],
         "contents": null,
@@ -22,20 +24,24 @@
     {
         "commits": [
             {
-                "subject": "rename source -> contents",
+                "date": "2014-12-31 14:08:45 +0800\n",
                 "author": {
-                    "name": "Zeno Zeng",
-                    "email": "zenoofzeng@gmail.com"
+                    "email": "zenoofzeng@gmail.com",
+                    "name": "Zeno Zeng"
                 },
-                "date": "2014-12-31 14:08:45 +0800"
+                "subject": "rename source -> contents",
+                "hash": "18c975449aeb8c645a9ca1744c2833c2c4493972",
+                "body": ""
             },
             {
-                "subject": "first commit",
+                "date": "2014-09-16 12:11:37 +0800\n",
                 "author": {
-                    "name": "Zeno Zeng",
-                    "email": "zenoofzeng@gmail.com"
+                    "email": "zenoofzeng@gmail.com",
+                    "name": "Zeno Zeng"
                 },
-                "date": "2014-09-16 12:11:37 +0800"
+                "subject": "first commit",
+                "hash": "53b98c29d83858138a1cf4f88e0c891b5537649d",
+                "body": ""
             }
         ],
         "contents": null,
@@ -45,20 +51,24 @@
     {
         "commits": [
             {
-                "subject": "rename source -> contents",
+                "date": "2014-12-31 14:08:45 +0800\n",
                 "author": {
-                    "name": "Zeno Zeng",
-                    "email": "zenoofzeng@gmail.com"
+                    "email": "zenoofzeng@gmail.com",
+                    "name": "Zeno Zeng"
                 },
-                "date": "2014-12-31 14:08:45 +0800"
+                "subject": "rename source -> contents",
+                "hash": "18c975449aeb8c645a9ca1744c2833c2c4493972",
+                "body": ""
             },
             {
-                "subject": "first commit",
+                "date": "2014-09-16 12:11:37 +0800\n",
                 "author": {
-                    "name": "Zeno Zeng",
-                    "email": "zenoofzeng@gmail.com"
+                    "email": "zenoofzeng@gmail.com",
+                    "name": "Zeno Zeng"
                 },
-                "date": "2014-09-16 12:11:37 +0800"
+                "subject": "first commit",
+                "hash": "53b98c29d83858138a1cf4f88e0c891b5537649d",
+                "body": ""
             }
         ],
         "contents": null,
@@ -68,20 +78,24 @@
     {
         "commits": [
             {
-                "subject": "rename source -> contents",
+                "date": "2014-12-31 14:08:45 +0800\n",
                 "author": {
-                    "name": "Zeno Zeng",
-                    "email": "zenoofzeng@gmail.com"
+                    "email": "zenoofzeng@gmail.com",
+                    "name": "Zeno Zeng"
                 },
-                "date": "2014-12-31 14:08:45 +0800"
+                "subject": "rename source -> contents",
+                "hash": "18c975449aeb8c645a9ca1744c2833c2c4493972",
+                "body": ""
             },
             {
-                "subject": "first commit",
+                "date": "2014-09-16 12:11:37 +0800\n",
                 "author": {
-                    "name": "Zeno Zeng",
-                    "email": "zenoofzeng@gmail.com"
+                    "email": "zenoofzeng@gmail.com",
+                    "name": "Zeno Zeng"
                 },
-                "date": "2014-09-16 12:11:37 +0800"
+                "subject": "first commit",
+                "hash": "53b98c29d83858138a1cf4f88e0c891b5537649d",
+                "body": ""
             }
         ],
         "contents": null,
