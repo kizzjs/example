@@ -5,6 +5,7 @@ var config = {
         "name": "Kizz Example",
         "description": "Example site for test kizz theme",
         "link": "http://kizzjs.com/kizz-example",
+        "keywords": ["kizz", "example"],
         "copyright": "Copyright (C) Kizz Team 2014-2015."
     },
     source: './source',
