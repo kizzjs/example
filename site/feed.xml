@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Kizz Example</title>
     <link>http://kizzjs.com/kizz-example</link>
-    <updated>2015-01-27T14:46:19Z</updated>
+    <updated>2015-01-27T14:54:49Z</updated>
     <link rel="alternate" href="http://kizzjs.com/kizz-example"/>
     <subtitle>Example site for test kizz theme</subtitle>
     <rights>Copyright (C) Kizz Team 2014-2015.</rights>
@@ -12,7 +12,7 @@
         <id>http://kizzjs.com/yaml-front-matter-test</id>
         <link href="http://kizzjs.com/yaml-front-matter-test">
         </link>
-        <updated>2014-12-31T14:09:01Z</updated>
+        <updated>NaN-NaN-NaNTNaN:NaN:NaNZ</updated>
         <content type="html"><![CDATA[<p>This is yaml-front-matter test!</p>
 ]]></content>
     </entry>

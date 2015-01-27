@@ -7,6 +7,8 @@ var config = {
         "link": "http://kizzjs.com/kizz-example",
         "copyright": "Copyright (C) Kizz Team 2014-2015."
     },
+    source: './source',
+    target: './site',
     navs: [
         {
             title: 'nav 1',
@@ -14,6 +16,7 @@ var config = {
         }
     ],
     github: "kizzjs/kizz-example",
+    // permalink: ":year/:month/:day/:title.html"
     permalink: function(post) {
         return path.join(post.dirname, post.basename);
     }

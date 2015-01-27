@@ -1,17 +1,6 @@
 [
     {
-        "commits": [
-            {
-                "date": "2014-12-31 22:09:01 +0800\n",
-                "author": {
-                    "email": "zenoofzeng@gmail.com",
-                    "name": "Zeno Zeng"
-                },
-                "subject": "add yaml-front-matter-test",
-                "hash": "4a19a7ed163410ab46832579847793aabeebf1a4",
-                "body": ""
-            }
-        ],
+        "commits": [],
         "contents": null,
         "path": "yaml-front-matter-test.md",
         "title": "Hello YAML!",
