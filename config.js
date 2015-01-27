@@ -18,7 +18,8 @@ var config = {
     github: "kizzjs/kizz-example",
     // permalink: ":year/:month/:day/:title.html"
     permalink: function(post) {
-        return path.join(post.dirname, post.basename);
+        // permalink: ":dirname/:basename/"
+        return path.join(post.dirname, post.basename, 'index.html');
     }
 };
 
