@@ -8,5 +8,6 @@
     "github": {
         "username": "kizzjs",
         "repo": "kizz-example"
-    }
+    },
+    "permalink": ":year/:month/:title.html"
 }

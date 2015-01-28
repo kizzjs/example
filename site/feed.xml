@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Kizz Example</title>
+    <link>http://kizzjs.com/kizz-example</link>
+    <updated>2015-01-28T07:46:31Z</updated>
+    <link rel="alternate" href="http://kizzjs.com/kizz-example"/>
+    <subtitle>Example site for test kizz theme</subtitle>
+    <rights>Copyright (C) Kizz Team 2014.</rights>
+    <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[xxx]]></title>
+        <id>http://kizzjs.com/asserts-test/xxx</id>
+        <link href="http://kizzjs.com/asserts-test/xxx">
+        </link>
+        <updated>NaN-NaN-NaNTNaN:NaN:NaNZ</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello C!]]></title>
+        <id>http://kizzjs.com/A/B/C/Hello%20C</id>
+        <link href="http://kizzjs.com/A/B/C/Hello%20C">
+        </link>
+        <updated>2015-01-27T14:55:01Z</updated>
+        <content type="html"><![CDATA[<h1 id="hello-c-">Hello C!</h1>
+<p>Hello A/B/C!</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D]]></title>
+        <id>http://kizzjs.com/A/B/D/index</id>
+        <link href="http://kizzjs.com/A/B/D/index">
+        </link>
+        <updated>2015-01-27T14:55:01Z</updated>
+        <content type="html"><![CDATA[<h1 id="d">D</h1>
+<p>This is D!</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncatgorized Post Test]]></title>
+        <id>http://kizzjs.com/HelloWorld</id>
+        <link href="http://kizzjs.com/HelloWorld">
+        </link>
+        <updated>2015-01-27T14:55:01Z</updated>
+        <content type="html"><![CDATA[<h1 id="uncatgorized-post-test">Uncatgorized Post Test</h1>
+<p>Uncatgorized Test.</p>
+<h2 id="h2">H2</h2>
+<p>This is <code>&lt;p&gt;</code>.</p>
+<h3 id="h3">H3</h3>
+<p>This is <code>&lt;p&gt;</code>.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello YAML!]]></title>
+        <id>http://kizzjs.com/yaml-front-matter-test</id>
+        <link href="http://kizzjs.com/yaml-front-matter-test">
+        </link>
+        <updated>2015-01-27T14:55:01Z</updated>
+        <content type="html"><![CDATA[<p>This is yaml-front-matter test!</p>
+]]></content>
+    </entry>
+</feed>
